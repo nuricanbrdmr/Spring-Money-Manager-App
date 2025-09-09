@@ -69,8 +69,7 @@ Aşağıda uygulamada bulunan ana endpoint’lerin listesi verilmiştir:
 ### 🔑 Kullanıcı İşlemleri
 
 #### 📝 Kayıt Olma
-
-<img width="1621" height="893" alt="Register" src="https://github.com/user-attachments/assets/2751b7e7-80df-4a71-b279-4160c25362f5" />  
+<img width="2419" height="894" alt="image" src="https://github.com/user-attachments/assets/4a7ce0f8-a098-4170-836e-755c84c138a4" />
 
 #### 📧 Email Aktivasyon Doğrulama
 
